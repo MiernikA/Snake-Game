@@ -1,7 +1,7 @@
 # Snake Game
 
 A simple Snake game implemented in HTML, CSS, and JavaScript.  
-Game created as part of in high school projects.
+Game created as part of high school projects.
 
 
 ## How to Play
