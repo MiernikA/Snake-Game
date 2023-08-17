@@ -9,14 +9,13 @@ Game created as part of in high school projects.
 1. Open the game in a compatible web browser.
 2. Use the **Arrow keys** or **W, A, S, D** keys to control the snake's direction.
 3. The snake will start moving upwards when you press any of these keys.
-4. Collect the fruits (green squares) to increase your score and the length of the snake.
+4. Collect the fruits (red cricles) to increase your score and the length of the snake.
 5. Avoid running into the walls or the snake's own tail, as this will end the game.
 6. Your goal is to collect as many fruits as possible and achieve the highest score.
 
 ## Features
 
 - Classic Snake gameplay.
-- Snake's movement speed increases as the game progresses.
 - Score display to keep track of your points.
 - Timer display to show how long you've been playing.
 
