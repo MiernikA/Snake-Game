@@ -38,4 +38,9 @@ The game loop is implemented using `setInterval` to continuously move the snake 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in a compatible web browser.
 
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
 
